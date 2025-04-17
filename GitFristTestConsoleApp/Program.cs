@@ -1,3 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.ReadLine();
+Console.WriteLine();
+
+if(true)
+{
+    Console.WriteLine("this is branch test");
+}
